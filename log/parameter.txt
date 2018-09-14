@@ -1,0 +1,1 @@
+reward = ((self.score - self.score_before)*2 + (self.player.shield - self.player.shield_before)+(self.player.power-1)*10)/100.
