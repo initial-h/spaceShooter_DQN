@@ -55,7 +55,7 @@ This algorithm is on paper [Human-level control through deep reinforcement learn
  
 ## Details
  * The DQN code is nearly the same with [FlappyBird_DQN_with_target_network](https://github.com/initial-h/FlappyBird_DQN_with_target_network)
- * When train,you can wipe off the background or not
- <img src="log/pic.png" width="450"><img src="log/pic_without_bg.png" width="450">
+ * When train,you can wipe off the background or not</br>
+ <img src="log/pic.png" width="250"><img src="log/pic_without_bg.png" width="250">
  * The algorithm is not very effective given the game is so easy.And its performance is very unstable. 
-<img src="log/max_value.png" width="450"><img src="log/score.png" width="450">
+<img src="log/max_value.png" width="350"><img src="log/score.png" width="350">
