@@ -51,7 +51,7 @@ python main.py --human_play True
 
 ## DQN Algorithm
 This algorithm is on paper [Human-level control through deep reinforcement learning ](https://www.ncbi.nlm.nih.gov/pubmed/25719670)
- <img src="log/algorithm.png" width="650"><br>
+ <img src="log/algorithm.png" width="450"><br>
  
 ## Details
  * The DQN code is nearly the same with [FlappyBird_DQN_with_target_network](https://github.com/initial-h/FlappyBird_DQN_with_target_network)
