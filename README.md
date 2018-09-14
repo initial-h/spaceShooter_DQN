@@ -1,6 +1,6 @@
 # SpaceShooter in DQN
 
-<img src="log/spaceshooter.gif" width="250">
+<img src="log/spaceshooter.gif" width="350">
 
 ## Overview
 
